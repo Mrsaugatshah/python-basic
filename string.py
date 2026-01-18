@@ -27,3 +27,16 @@
 
 # a = "Hello, World!"
 # print(a.split(",")) # returns ['Hello', ' World!']
+
+# txt = "We are the so-called \"Vikings\" from the north."
+# print(txt)
+
+# a = "Hello"
+# b = "World"
+# c = a + " " + b
+# print(c)
+
+#f string
+# age = 36
+# txt = f"My name is John, I am {age}"
+# print(txt)
